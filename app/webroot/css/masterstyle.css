@@ -1,0 +1,305 @@
+.core_break {
+	width: 50em;
+	word-wrap: break-word;
+}
+.error, .required{
+	color: red;
+}
+.form-group.no-line {
+	border-bottom: none;
+}
+.btn btn-white btn-sm {
+	border-style:  5px solid green;
+	background-color: white;
+}
+table.table-st {
+	width:100%;
+}
+table.table-st tr {
+	border-bottom: 1px solid #D9DEE4;
+}
+table.table-st tbody tr td.left {
+	width:93%;
+	padding:10px;
+}
+table.table-st tbody tr td.right {
+	width:71%;
+	text-align: left;
+	padding:10px;
+}
+#padding_indu_cate {
+	padding: 1px;
+}
+.re_image:before {
+	content: "X";
+}
+.history_back {
+	padding: 5px;
+}
+.navi {
+	float: left;
+	list-style: none;
+}
+.re_image {
+	position: relative;
+	right: 8px;
+	background: #1a82c3;
+	color: white;
+	border-radius: 50px;
+	font-size: 0.9em;
+	padding-top: 0px;
+	padding-bottom: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-align: center;
+	cursor: pointer;
+}
+#detail_div_height {
+	height: 150px;
+}
+.form-group {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #D9DEE4;
+}
+.headhunday {
+	width: 90px;
+}
+.headhun_month {
+	margin-left: -6%
+}
+.mail_transmit {
+	width: 96px;
+	height: 33px;
+}
+.cptal_type {
+	width: 79px; height: 33px;
+}
+.pass_checkbox {
+	margin-left: 258px;
+	}
+.div_pass {
+	display: none;
+}
+.div_pass .out{
+	display: block;
+}
+/*/////////////////////Plus 3image upload////////////////////////*/
+.attachment {
+	margin-top: 30px;
+}
+.attachment ul {
+	width: 100%;
+	list-style: none;
+	padding-left: 0;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.attachment ul li {
+	float: left;
+	width: 150px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.attachment ul li img {
+	height: 150px;
+	border: 1px solid #ddd;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.attachment ul li span {
+	float: right;
+}
+.attachment .file-name {
+	float: left;
+}
+.attachment .links {
+	width: 100%;
+	display: inline-block;
+}
+.plus{
+	border-color: #000;
+	border-radius: 100%;
+	box-shadow: 0px 0px 5px 1px;
+	font-size: x-large;
+	background-color: transparent;
+	padding-left: 8px;
+	padding-right: 8px;
+	float: right;
+	margin-right: 191px;
+	margin-top: 13px;
+	margin-left: -50px;
+}
+.plus:hover{
+	text-decoration: none;
+}
+.plus2{
+	border-color: #000;
+	border-radius: 100%;
+	box-shadow: 0px 0px 5px 1px;
+	font-size: x-large;
+	background-color: transparent;
+	padding-left: 10px;
+	padding-right: 10px;
+	float: left;
+	margin-top: -28px;
+	margin-left: 100px;
+}
+.plus2:hover{
+	text-decoration: none;
+}
+.pluss{
+	float: left;
+	margin-top: 10px;
+	margin-left: -8px;
+	width: 141px;
+}
+.pluss2{
+	float: left;
+	margin-top: 1px;
+	margin-left: 10px;
+}
+.imgsize{
+	height: 20px;
+	width: auto;
+	background-color: #fff;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.labalign{
+	padding-top: 6px;
+	margin-left: -20px;
+}
+.unitlabel{
+	padding-top: 10px;
+}
+.pluslabel{
+	margin-left: -35px;
+	padding-top: 10px;
+}
+.imagethum {
+	margin: 5px 2px 5px;
+	border:1px solid lightgray;
+	height: 130px;
+	width: 130px;
+	border-radius: 3px;
+	box-shadow: 0px 0px 1px 0px;
+	margin-bottom: 5px;
+	padding: 10px;
+	position: relative;
+	overflow: hidden;
+	float: center;
+	margin-left: 2px;
+}
+.remove_image:before {
+	content: "x";
+}
+.remove_image {
+	position: relative;
+	background: #1a82c3;
+	color: white;
+	border-radius: 50px;
+	font-size: 0.9em;
+	padding-top: 0px;
+	padding-bottom: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-align: center;
+	cursor: pointer;
+}
+.attachment_hide {
+	display: none;
+}
+
+/*first image*/
+/*#previewHolder1 {
+	width: 85%;
+	min-height: 150px;
+	height: 85%;
+	border: 3px solid #ccc;
+	background-color: #fff;
+	padding: 3px;
+	left: 0px;
+	height: 100%;
+	background-position: 50% 50%;
+	text-align: center;
+	width: 32%;
+}*/
+
+/*second image*/
+/*#previewHolder2 {
+	width: 85%;
+	min-height: 150px;
+	height: 85%;
+	border: 3px solid #ccc;
+	background-color: #fff;
+	padding: 3px;
+	left: 0px;
+	height: 100%;
+	background-position: 50% 50%;
+	text-align: center;
+	width: 32%;
+}*/
+
+/*first image*/
+/*#previewHolder3 {
+	width: 85%;
+	min-height: 150px;
+	height: 85%;
+	border: 3px solid #ccc;
+	background-color: #fff;
+	padding: 3px;
+	left: 0px;
+	height: 100%;
+	background-position: 50% 50%;
+	text-align: center;
+	width: 32%;
+}*/
+
+.browse-img {
+	margin: 5px 2px 5px;
+	border:1px solid lightgray;
+	width:130px;
+	height:auto;
+	padding: 10px;
+	position: relative;
+	overflow: hidden;
+	float: center;
+}
+/* ////////////////////// End ///////////////////////////// */
+
+/* pagination filter */
+.myclass {
+	color: #5A738E;
+}
+/* End of pagination filter */
+
+/* button designs in master occupation status */
+#btncancelstatus {
+	width: 102px;
+	height: 32px;
+	background: #989898;
+	cursor: auto;
+	pointer-events: none;
+	margin-top: 1px;
+	border: solid #AB9937 1px;
+}
+#btnstatus {
+	width: 102px;
+	height: 32px;
+	cursor: auto;
+	pointer-events: none;
+	margin-top: 1px;
+	border: solid #AB9937 1px;
+}
+/*for login*/
+.color_settion{
+	color:red !important;
+
+}
+
+/* Master company add checkbox design */
+.company_check {
+	width: 16px;
+	height: 16px;
+}

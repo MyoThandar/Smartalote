@@ -1,0 +1,1100 @@
+/*for CV */
+.form-group .letter_color{
+	font-size:19px;
+	color:#084B8A;
+
+}
+.form_2_btn{
+	background-color:#049436;
+	color: #fff;
+}
+
+h2.cv7-name {
+	color: #084B8A;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.cv-top-right {
+	margin-top: 1%;
+}
+
+.cv-top-right .cv-id {
+	color: #084B8A;
+	font-weight: bold;
+}
+
+section.cv-personal-info {
+	margin-top: 30px;
+}
+
+.cv-profile {
+	position: absolute;
+	width: 85%;
+	min-height: 237px;
+	height: 85%;
+	border: 3px solid #084B8A;
+	background-color: #fff;
+	padding: 3px;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+.cv7-title {
+	color: #fff;
+	background-color: #084B8A;
+	border-radius: 6px !important;
+}
+
+.cv7-title h3 {
+	margin-top: 10px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.search_industry{
+	/*background-color:#f2f2f2;*/
+		/*border:1px solid #e2e2e2;
+		padding:30px;
+		overflow: auto;
+		height:430px;*/
+		border:1px solid #e2e2e2;overflow: auto;height:430px;background-color:#f2f2f2;padding: 25px;
+	}
+	.mletter p{
+		font-size:17px;
+	}
+	.w3-ul li{
+		font-size:17px;
+	}
+
+	/* for cv (1~7) */
+
+	/* for plus btn */
+	.add_plus:before {
+		content: "\271A";
+	}
+	.add_minus:before {
+		content: "ー";
+	}
+
+	.cv_three_font{
+		font-size:16px;
+	}
+	.cv_one_email {
+		height:39px;
+	}
+	.radius_text{
+		border-radius:5px;
+	}
+
+	/* for cv preview */
+	.head_line{
+		border-bottom: 1px solid #d6d6e0;
+		padding-bottom:10px;
+	}
+	.word_break {
+		width: 43em;
+		word-wrap: break-word;
+	}
+
+	/*for activity management*/
+	.date_col{
+		color:red;
+	}
+	.sub_contain{
+		padding-bottom:20px;
+	}
+	.logo_acc{
+		width:110px;height:90px;
+	}
+
+	/*for login*/
+	.sub_box{
+		background-color:;border:0.5px solid lightgray;
+	}
+	.Utitle{
+		text-align:center;padding-top:15px;
+	}
+
+	/*for copyright*/
+	.copyright{
+		background-color:#2ECCFA;
+		text-align:center;
+		padding-top:15px;
+		color:#fff;height:50px;
+		font-size:15px;
+	}
+
+	/*for contact us*/
+	.contact_send{
+		background-color: #5bc171;
+		color:#fff;margin-bottom:15px;
+	}
+
+	/*for pc show*/
+	@media screen and (min-width: 600px) {
+		.still_university{
+			margin-left: -1px !important;
+		}
+		.edu {
+			margin-bottom: 40px;
+		}
+		.btn_save_cancel {
+			padding-left: 8%;padding-right: 8%;float: right;
+		}
+		.btn_cancel{
+			margin-top: 3%;margin-bottom: 2%;padding-right: 0px !important;
+		}
+
+		.btn_save{
+			margin-top: 3%;margin-bottom: 2%;padding-left: 0px !important;
+		}
+		.add_company {
+			margin-left: 191px !important;
+		}
+		.plus_project {
+			margin-left: 15px !important;
+		}
+		.project_group {
+			padding-left: 0px !important;margin-top: 8px;
+
+		}
+		.current_resign {
+			margin-top: 3px;
+		}
+		.plus_instruction{
+			margin-left: 70px !important;
+		}
+		.minus_instruction{
+			margin-left: 329px !important;
+		}
+		.plus_computerskill{
+			margin-left: 219px !important;
+		}
+
+		.minus_language{
+			margin-right: 525px !important;
+		}
+		.add_language{
+			margin-left: 70px !important;
+		}
+		.minus_quali{
+			margin-left: -13px !important;
+		}
+		.plus_quali{
+			margin-right: 412px;
+		}
+
+		.Message {
+			margin-left: 300px;
+			color: red;
+		}
+
+		.Message1 {
+			margin-left: 390px;
+			color: red;
+		}
+
+		.mypage-header {
+			margin-left: -3%;
+		}
+
+		.delete_language{
+			margin-left: 782px;
+		}
+
+		div .jb_margin{
+			margin-left:40px;
+		}
+		.can_save{padding-left:40px;}
+		.face_width{
+			width:350px;
+		}
+		.applyForm .minus_car{
+			margin-left:197px !important;
+		}
+		.applyForm .career_minus{
+			margin-left:291px;
+		}
+		.applyForm .minus_proj{
+			margin-left:290px;
+		}
+		.career_company_plus{
+			margin-left:212px;
+		}
+		.plus_carrier{
+			margin-left:306px;
+		}
+		div .c_pj{
+			margin-left: 435px;
+		}
+		.plus_edu{
+			margin-left:199px;
+		}
+		.applyForm .minus_edu{
+			margin-left:215px;
+		}
+		/* delete button in usersettings*/
+		.blockCmpDelete{
+			width: 180px;
+		}
+
+		.input-group .select_css{
+			border-color: #C0C0C0;margin-top:15px;
+		}
+		.input-group .sel_width{
+			width: 420px;
+		}
+		.month_pad{
+			padding-left:53px;
+		}
+		.year_pad{
+			padding-left:93px;
+		}
+
+		/*for CV*/
+		.jobcate_width{
+			width: 197px;
+		}
+		.language_minus{
+			display: none;margin-left: 40px;
+		}
+		/*.language_plus{
+			padding-left:75px
+			}*/
+			.form_2_btn{
+				border-radius:3px;
+				background-color:#049436;
+				width:430px;
+			}
+			.wide_mypage{
+				width:170px;
+			}
+			.para{
+				padding-left:50px;
+			}
+
+			/*for mypage*/
+			.personal_deg{
+				margin-bottom:37px;
+			}
+			.emp_table{
+				width: 340px;
+			}
+			.mypage_emp{
+				padding-top:10px;
+				padding-left:110px;
+			}
+			.my_address{
+				width:800px;
+			}
+			.mypage_exe{
+				padding-left: 50px;
+			}
+			.word_break{
+				width: 61em;
+				word-wrap: break-word;
+			}
+			.word_break_rwo{
+				width:21em;
+				word-wrap: break-word;
+			}
+			.word_break_three{
+				width:41em;
+				word-wrap: break-word;
+			}
+			.current_break{
+				width:52em;
+				word-wrap: break-word;
+			}
+			.core_break{
+				width:78em;
+				word-wrap: break-word;
+			}
+			.other_break{
+				width:18em;
+				word-wrap: break-word;
+			}
+
+			/*for search by*/
+			.ind_job{
+				padding-top:13px;
+				margin-left:50px;
+			}
+
+		/*.search_cate{
+			margin-left:16px;
+			padding-top:10px;
+			border:1px solid #e2e2e2;
+			overflow: auto;
+			height:430px;
+			}*/
+			/*.sub_cate{padding:20px}*/
+		/*.search_region{
+			margin-left:18px;
+			padding-top:10px;
+			border:1px solid #e2e2e2;
+			overflow: auto;
+			height:430px;
+		}
+		.sub_region{padding:20px}*/
+		.searchby_ajust{
+			padding-left:6px;
+			font-size:18px;
+		}
+		.job_cate{
+			padding-left: 365px;
+		}
+		.rgn {
+			padding-left: 281px;
+		}
+		.ajust_line{
+			padding-left: 65px;
+		}
+		.input-group .day_width{
+			width:140px;
+		}
+
+		.month_width{
+			margin-right: 30px;
+		}
+
+		.pc_img_size{
+			width:130px;height:135px;border:1px solid lightgray;
+			/*margin-left:45px;*/
+		}
+
+		/*for cv(1~7)*/
+		.cv_five_plus{
+			margin-left: 260px;
+		}
+		.cv_four_jc{
+			margin-left: 20px;
+		}
+		.cv_one_day{
+			width: 95px;
+		}
+		.cv_one_month{
+			padding-left: 57px;width: 160px;
+		}
+		.cv_one_phone{
+			margin-top: 0px;
+			border-color: #C0C0C0;
+			margin-left:1px;
+			width:240px;
+		}
+
+		/*for profile CV preview*/
+		.size_img_CV{width:190px;height:190px}
+		/*for registration success and receipt page*/
+		.img_reg{
+			margin-left:50px;
+			margin-bottom:20px;
+		}
+
+		.receipt_success{
+			margin-left:320px;
+			width:38%;
+		}
+		.success_btn{
+			margin-left:50px;
+			margin-bottom:20px;
+		}
+		/*for contact us*/
+		.label_padding{
+			padding-left:35px;
+		}
+		.contactus_css{
+			border:0.5px solid lightgray;
+			width:48%;margin-left:300px;
+		}
+		.bor_color{
+			border:0.5px solid lightgray;margin-top:3%;
+			border-radius:2px;
+			padding:5px;
+			margin-bottom:10px;
+			margin-top:10px;
+			background-color:#F2F2F2;
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		.img_size{
+			width:110px;
+			height:90px;
+		}
+		/*for job search result page*/
+		.jsearch_css{
+			padding:15px 0px 0px 80px;
+		}
+		.jobsearch_img{
+			border:1px solid lightgray;width:120px;height:120px;margin-top:33px;
+		}
+		/*for login page*/
+		.login_box{
+			margin-top:40px;
+		}
+		/*for download page*/
+		.download_css{
+			width: 130px
+		}
+		/*latest job*/
+		.hig_latest{
+			/*height:185px;*/
+			height:175px;
+		}
+
+		/****** ************************************start Activity management *******************************/
+		.del {
+			/*width: 69% !important;*/
+			display: inline-block;
+			padding: 6px 12px;
+			margin-bottom: 0;
+			font-size: 14px;
+			font-weight: normal;
+			line-height: 1.42857143;
+			text-align: center;
+			background-image: none;
+			border: 1px solid transparent;
+			border-radius: 4px;
+		}
+		/* delete button  in  save job design for activity management */
+		.cancel_button{
+			margin-left:  4px !important;
+			width:75% !important;
+			display: inline-block;
+			padding: 6px 12px;
+			margin-bottom: 0;
+			font-size: 14px;
+			font-weight: normal;
+			line-height: 1.42857143;
+			text-align: center;
+			background-image: none;
+			border: 1px solid transparent;
+			border-radius: 4px;
+		}
+		.show_selection {
+			background-color: #fff !important;color: orange !important;border:2px solid !important;  padding: 6px 5px !important;margin: 0px 5px !important;width: 86% !important;
+		}
+		.show_passed{
+			background-color: #fff !important;color: green !important;border:2px solid !important;margin: 0px 5px !important;width: 86% !important;
+		}
+		.show_failed{
+			background-color: #fff !important;color: gray !important;border:2px solid !important; padding: 6px 5px !important;margin: 0px 0px !important;width: 85% !important;margin-left: 5px !important;
+		}
+		.show_closed{
+			background-color: #fff !important;color: gray !important;border:2px solid !important; padding: 6px 5px !important;margin: 0px 0px !important;width: 87% !important;margin-left: 5px !important;
+		}
+		/************************* end Activity management ******************************/
+		.mypageedit_title{
+			padding-left: 15px !important;
+			padding-right: 0px !important;
+		}
+	}
+
+	/*for mobile show*/
+	@media screen and (max-width: 600px) {
+		.mypageedit_title{
+			margin-left: 0px !important;
+			padding-right: 0px !important;
+		}
+		.mobile_bottom{
+			margin-bottom: 0px !important;
+		}
+		.bottom_language {
+			margin-bottom: 5px !important;
+		}
+		.height_btn{
+			height: 10px !important;
+		}
+		.current_resign {
+			margin-left: -31px !important;
+		}
+		.minus_instruction{
+			padding-left: 15px !important;
+		}
+		.still_checkbox{
+			padding-left: 3px;
+		}
+		.plus_edu{
+			margin-left:-13px;
+		}
+
+		.Message {
+			margin-left: 4px;
+			color: red;
+		}
+
+		.Message1 {
+			margin-left: 10px;
+			color: red;
+		}
+
+		.mypage-header {
+			margin-left: -13%;
+		}
+
+		.mypage-button {
+			margin-left: 15%;
+		}
+
+		.long-header {
+			margin-top: -5%;
+		}
+
+		.padding_minus{
+			padding-left:16px;
+		}
+		.career_company_plus{
+			margin-left:3px;
+		}
+		.plus_carrier{
+			margin-left:4px;
+		}
+
+		.minus_carrier{
+			padding-left:18px;
+		}
+		.word_break{
+			width: 10em;
+			word-wrap: break-word;
+		}
+		.project_add_su{
+			padding-left:20px;
+		}
+
+		.form-group .f_width{
+			width:20px;
+			background-color: red;
+		}
+		.language_minus{
+			display: none;margin-left: 260px;
+		}
+		.applyForm .minus_edu{
+			margin-left:2px !important;
+		}
+
+		.form-group .f_width{
+			width:20px;
+			background-color: red;
+		}
+		.language_minus{
+			display: none;margin-left: 260px;
+		}
+		.applyForm .minus_edu{
+			margin-left:152px;
+		}
+
+		/*for topic page job list*/
+		.mobile_padd_latest{
+			padding-top:30px;
+		}
+
+		/*cv(1~8)*/
+		.cv_five_plus{
+			margin-left: 16px;
+		}
+
+		/*for latest job show*/
+		.pc_img_size{
+			width:100px;
+			height:100px;
+			margin-top:50px;
+		}
+		.mobile_latest_job{
+			height: 500%;
+			padding:6%;
+		}
+		.size_img_listpage{
+			width:200px;
+		}
+
+		/*for profile CV preview*/
+		.name_mobil{
+			padding-left:30px;
+		}
+		.download_css{
+			margin-left:25px;
+		}
+		.size_img_CV{
+			width:120px;
+			margin-left:15px;
+		}
+
+		/*for activity management*/
+		.activity_man{
+			border:0.5px solid lightgray;margin-top:3%;
+			border-radius:2px;
+			padding:5px;
+			margin-bottom:10px;
+			margin-top:10px;
+			background-color:#F2F2F2;
+			padding-top:20px;
+			padding-bottom:20px;
+		}
+		.success_btn{
+			margin-top:30px;
+		}
+
+		/*for login page*/
+		.login_box{
+			margin-top:50px;
+			margin-bottom:40px;
+		}
+		.img_size{
+			width:100px;
+			height:100px;
+		}
+
+		/*for job search result page*/
+		.jsearch_css{
+
+		}
+		.jobsearch_img{
+			border:1px solid lightgray;
+			width:90px;
+			height:100px;
+			margin-top:33px;
+		}
+
+		/* 見出し行を消す */
+		#table01 th {
+			display: none;
+		}
+
+		/* セルをブロックとして表示 */
+		#table01 td {
+			display: block;
+		}
+
+		/* 最初の項目に背景色を付ける */
+		#table01 td:nth-child(1) {
+			background-color: #d9edf7;
+		}
+		#table01 td:nth-child(1):before {
+			content: 'Job ID ：';
+		}
+		#table01 td:nth-child(5):before {
+			content: 'Applied ：';
+		}
+
+		#table01 td:nth-child(7):before {
+			content: 'Latest update ：';
+		}
+
+		/*======================Save jobs*/
+		#table02 th {
+			display: none;
+		}
+
+		/* セルをブロックとして表示 */
+		#table02 td {
+			display: block;
+		}
+
+		/* 最初の項目に背景色を付ける */
+		#table02 td:nth-child(1) {
+			background-color: #d9edf7;
+		}
+		#table02 td:nth-child(1):before {
+			content: 'Job ID ：';
+		}
+
+		/* セルに見出し代わりの文字を付加 */
+
+		.open_close {
+			width: 26% !important;margin: 0px !important;
+		}
+
+		/* delete button  in  apply job design for activity management */
+		.del {
+			width: 26% !important;
+			display: inline-block;
+			padding: 6px  10px;
+			margin-bottom: 0;
+			font-size: 14px;
+			font-weight: normal;
+			line-height: 1.42857143;
+			text-align: center;
+			background-image: none;
+			border: 1px solid transparent;
+			border-radius: 4px;
+		}
+		/* delete button  in  save job design for activity management */
+		.cancel_button{
+			margin-left:  0px !important;
+			width: 26% !important;
+			display: inline-block;
+			padding: 6px 12px;
+			margin-bottom: 0;
+			font-size: 14px;
+			font-weight: normal;
+			line-height: 1.42857143;
+			text-align: center;
+			background-image: none;
+			border: 1px solid transparent;
+			border-radius: 4px;
+		}
+		.show_selection {
+			background-color: #fff !important;color: orange !important;border:2px solid !important;  padding: 6px 2px !important;margin: 0px 0px !important;width: 26%  !important;
+		}
+		.show_passed{
+			background-color: #fff !important;color: green !important;border:2px solid !important;margin: 0px 0px !important;width: 26%  !important; padding: 6px 6px !important;
+		}
+		.show_failed{
+			background-color: #fff !important;color: gray !important;border:2px solid !important; padding: 6px 5px !important;margin: 0px 0px !important;width: 26% !important;
+		}
+		.show_closed{
+			background-color: #fff !important;color: gray !important;border:2px solid !important; padding: 6px 5px !important;margin: 0px 0px !important;
+		}
+	}
+
+	/*for setting*/
+	.email_div{
+		text-decoration: underline;
+	}
+	.password_div{
+		text-decoration: underline;
+	}
+	.disclosure_div{
+		text-decoration: underline;
+	}
+	.Withdrawal_div{
+		text-decoration: underline;
+	}
+
+/*.dv_design{
+	border: 1px solid gray;
+	height:48px;
+	background-color: #DCDCDC;
+	width: 100%;
+	padding: 10px 10px ;
+	}*/
+
+	.newdiv_design{
+		height:48px;
+		width: 100%;
+		padding: 10px 10px ;
+		background-color:#E6E6E6;
+		color:#0B0B61;
+		/*border:1px solid #A9A9F5;*/
+	}
+	.btn_gray{
+		color: white;
+		background-color:gray;
+	}
+	.profile_back{
+		background-color: #0B0B61;
+	}
+	.profile_container{
+		margin-top:1%;
+		margin-bottom:2%;
+	}
+	.photo{
+		padding-top:26px;
+		padding-left:73px;
+	}
+	.photo img{
+		border-radius:60px;
+		border:4px solid white;
+	}
+	.profile_letter{
+		color:#ffffff;
+		text-align:center;
+	}
+	.profile_body{
+		background-color:#E6E6E6;
+		padding-left:10px;
+		color:#0B0B61;
+		text-align:center;
+		height:48px;
+		padding-top:5px;
+
+	}
+	legend{
+		text-align:center;
+		margin-top:10px;
+		color:#0B0B61;
+	}
+
+	.changeimg_size{
+		width:25px;
+		height:25px;
+
+	}
+	.change_content{
+		display: none;
+		padding: 10px;
+		background-color:#F2F2F2;
+		padding:30px;
+	}
+	.check{
+		padding-left:20px;
+	}
+	.ch_letter{
+		padding-left:2%;
+	}
+	.btn_style{
+		font-family: Verdana, Geneva, sans-serif;
+		color: #FFF;
+		padding: 5px 50px 5px 50px;
+		border: 1px solid #999;
+		border-radius: 4px;
+		-moz-border-radius: 4px;
+		-webkit-border-radius: 4px;
+		background:#F09023;
+	}
+	.btn_class{
+		border-radius:1px;
+	}
+	.btn_style_widthdraw{
+		font-family: Verdana, Geneva, sans-serif;
+		color: #FFF;
+		padding: 5px 50px 5px 50px;
+		border: 1px solid #999;
+		border-radius: 4px;
+		-moz-border-radius: 4px;
+		-webkit-border-radius: 4px;
+		background:#8B8988;
+	}
+
+	/* for paging job search page */
+	.page.active {
+		border: none;
+		background: #616161;
+		box-shadow: inset 0px 0px 8px rgba(0,0,0, .5), 0px 1px 0px rgba(255,255,255, .8);
+		color: #f0f0f0;
+		text-shadow: 0px 0px 3px rgba(0,0,0, .5);
+	}
+	.prev {
+		font: 18px/28px sans-serif;
+		font-family: sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		line-height: 28px;
+		font-size-adjust: none;
+		font-stretch: normal;
+		-x-system-font: none;
+		font-feature-settings: normal;
+		font-language-override: normal;
+		font-kerning: auto;
+		font-synthesis: weight style;
+		font-variant-alternates: normal;
+		font-variant-caps: normal;
+		font-variant-east-asian: normal;
+		font-variant-ligatures: normal;
+		font-variant-numeric: normal;
+		font-variant-position: normal;
+		display: inline-block;
+		padding: 0px 9px;
+		margin-right: 4px;
+		border-radius: 3px;
+		border: solid 1px #c0c0c0;
+		background: #fff;
+		box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+		font-size: .895em;
+		font-weight: bold;
+		text-decoration: none;
+		color: #717171;
+		text-shadow: 0px 1px 0px rgba(255,255,255, 1);
+	}
+	.next {
+		font: 18px/28px sans-serif;
+		display: inline-block;
+		padding: 0px 9px;
+		margin-right: 4px;
+		border-radius: 3px;
+		border: solid 1px #c0c0c0;
+		background: #fff;
+		box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+		font-size: .895em;
+		font-weight: bold;
+		text-decoration: none;
+		color: #717171;
+		text-shadow: 0px 1px 0px rgba(255,255,255, 1);
+	}
+	span.prev {
+		background-color: #ddd;
+	}
+	span.next {
+		background-color: #ddd;
+	}
+	#backToTop{
+		position: fixed;
+		bottom: 10px;
+		right: 23px;
+		cursor: pointer;
+		display: none;
+		color: #fff;
+		z-index: 9999;
+	}
+
+	/*for error message in user register*/
+	.error{
+		color: red;
+	}
+
+	/* topic page company logo aspect ratio*/
+	div.img-job-list {
+		width: 125px;
+		height: 125px;
+		border:1px solid lightgray;
+		position: relative;
+		margin-left: 20px;
+	}
+	div.img-job-list img {
+		max-width: 100%;
+		max-height:100%;
+		margin: auto;
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+	}
+
+	/* topic page company logo aspect ratio in mobile*/
+	div.img-job-list-mobile {
+		width: 100px;
+		height: 100px;
+		border:1px solid lightgray;
+		position: relative;
+		margin-left: 20px;
+	}
+	div.img-job-list-mobile img {
+		max-width: 100%;
+		max-height:100%;
+		margin: auto;
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+	}
+
+/*div.img-job-list-top-employee {
+	width: 150px;
+	height: 150px;
+	border:1px solid lightgray;
+	position: relative;
+	margin-left: 20px;
+}
+div.img-job-list-top-employee img {
+	max-width: 100%;
+	max-height:100%;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	}*/
+
+	.topic {
+		margin:auto;
+		vertical-align: middle;
+	}
+
+	/* Top employer logo design */
+	.top-employee {
+		width: 150px;
+		height: 150px;
+		border:1px solid lightgray;
+		position: relative;
+		margin-left: 20px;
+		margin-bottom: 25px;
+	}
+	.top-employee img {
+		max-width: 100%;
+		max-height:100%;
+		margin: auto;
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+	}
+
+	.job-detail-all-jobs{
+		width: 125px;
+		height: 125px;
+		border:1px solid lightgray;
+		position: relative;
+		margin-left: 20px;
+		margin-bottom: 25px;
+	}
+	.job-detail-all-jobs img {
+		max-width: 100%;
+		max-height:100%;
+		margin: auto;
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+	}
+
+	.job-search-top-emp-logo {
+		margin: 5px 2px 5px;
+		width: 130px;
+		height: 130px;
+		border:1px solid lightgray;
+		padding: 10px;
+		position: relative;
+		overflow: hidden;
+		float: center;
+		margin-bottom: 20px;
+	}
+
+	.job-search-top-emp-logo img {
+		max-width: 100%;
+		max-height:100%;
+		margin: auto;
+		position: absolute;
+		top: 0; left: 0; bottom: 0; right: 0;
+	}
+
+	.cv-container {
+		padding-top:2%;
+		padding-right: 22px;
+	}
+
+	a.cv-cancel {
+		display: inline-block;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		font-size: 12px;
+		font-weight: bold;
+		padding: 10px 30px;
+		border-radius: 5px;
+		-webkit-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+		-webkit-border-radius: 5px;
+		border: 1px solid rgba(0,0,0,0.3);
+		border-bottom-width: 3px;
+		background-color: #127596;
+		border-color: rgba(0,0,0,0.3);
+		text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+		color: #FFF;
+		padding: 8px 74px;
+	}
+
+	.cv-cancel:active {
+		position:relative;
+		top:1px;
+	}
+
+	a.cv-cancel:hover {
+		text-decoration: none;
+	}
+
+	.cv-save {
+		display: inline-block;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		font-size: 12px;
+		font-weight: bold;
+		padding: 8px 86px;
+		-webkit-box-shadow: inset 0px 1px 3px 0px #91b8b3;
+		-webkit-border-radius: 5px;
+		border: 1px solid rgba(0,0,0,0.3);
+		border-bottom-width: 3px;
+		background-color: #049436;
+		border-color: rgba(0,0,0,0.3);
+		text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+		color: #FFF;
+	}
+	/* mypageeditContainer Border */
+	.mypageedit_container {
+		border: 3px solid #084B8A;
+		border-radius: 10px;
+		margin-top: 3%;
+		margin-bottom: -3%;
+		padding-bottom: 8px !important;
+	}
